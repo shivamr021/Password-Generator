@@ -44,7 +44,3 @@ Contributions are welcome! Please fork the repository and submit a pull request 
 
 ## Author
 [Shivam Rathod](https://github.com/shivamr021)
-```
-
-### Git Repository Description
-"A Python script to generate random, customizable passwords. Features include options for length, uppercase, digits, and special characters. Easy to use and perfect for enhancing your password security."
